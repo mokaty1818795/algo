@@ -1,0 +1,43 @@
+[
+  {
+    "ID": "1",
+    "Subject": "Physics",
+    "Grade": "91",
+    "Symbols": "A*"
+  },
+ {
+  "ID": "2",
+  "Subject": "Litrature",
+  "Grade": "80",
+  "Symbols": "A"
+},{
+  "ID": "3",
+  "Subject": "Mathematics",
+  "Grade": "71",
+  "Symbols": "B"
+},
+{
+  "ID": "4",
+  "Subject": "Geography",
+  "Grade": "91",
+  "Symbols": "A*"
+},
+ {
+  "ID": "5",
+  "Subject": "English",
+  "Grade": "67",
+  "Symbols": "C"
+},
+{
+  "ID": "6",
+  "Subject": "Biology",
+  "Grade": "91",
+  "Symbols": "A*"
+},
+{
+  "ID": "7",
+  "Subject": "Sesotho",
+  "Grade": "60",
+  "Symbols": "C"
+}
+]
